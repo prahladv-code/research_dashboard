@@ -1,0 +1,6 @@
+Dashboard_templates
+streamlit
+pandas
+plotly.express
+sys
+os

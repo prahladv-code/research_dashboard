@@ -8,7 +8,7 @@ import os
 # Add the parent directory to the Python path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-import ChakraView
+from Research_108.ChakraView import ChakraView
 
 class AnalyticsDashboard:
     def __init__(self, strategy_list):

@@ -1,4 +1,4 @@
-
+duckdb
 streamlit
 pandas
 plotly.express
